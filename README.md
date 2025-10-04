@@ -16,6 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
+
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 🎓 **T.Y EXTC Engineering Student** at **VJTI Mumbai**  
@@ -145,7 +146,7 @@ Intelligent scheduling system powered by genetic algorithms (DEAP) that generate
 ---
 
 <div align="center">
-
+<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
 <h2>🤝 Let's Connect & Collaborate! 🤝</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/karan-khedkar)
