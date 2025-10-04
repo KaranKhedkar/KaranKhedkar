@@ -16,27 +16,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-```javascript
-const karan = {
-    location: "Mumbai, India 🇮🇳",
-    education: "T.Y EXTC @ VJTI Mumbai 🎓",
-    role: "Full Stack Developer 💻",
-    passion: "Building Beautiful Web Experiences ✨",
-    currently: "Exploring AI Integration 🤖",
-    funFact: "I turn coffee into code ☕➡️💻",
-    code: ["JavaScript", "Python", "HTML", "CSS"],
-    technologies: {
-        frontEnd: ["React", "Tailwind CSS"],
-        backEnd: ["Node.js", "FastAPI"],
-        databases: ["MongoDB", "PostgreSQL", "Supabase"],
-        tools: ["Git", "VS Code", "Postman"]
-    },
-    architecture: ["Single Page Applications", "RESTful APIs"],
-    currentFocus: "AI-Powered Web Applications"
-};
-```
+🎓 **T.Y EXTC Engineering Student** at **VJTI Mumbai**  
+💻 **Full Stack Developer** passionate about creating seamless web experiences  
+🤖 Currently exploring **AI Integration** in web applications  
+🌐 Love building **interactive, responsive websites** that solve real problems  
+☕ **Fun Fact:** I turn coffee into code!  
+
+### What I'm Up To:
+- 🔭 Working on AI-powered web applications
+- 🌱 Learning advanced React patterns and AI integration
+- 💡 Building projects that make a difference
+- 🎯 Open to collaborating on innovative web projects
 
 ---
 
@@ -147,42 +139,17 @@ Intelligent scheduling system powered by genetic algorithms (DEAP) that generate
 
 ---
 
-<h2 align="center">🐍 Contribution Snake 🐍</h2>
+<h2 align="center">🐍 Watch the Snake Eat Contributions! 🐍</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaranKhedkar/KaranKhedkar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaranKhedkar/KaranKhedkar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaranKhedkar/KaranKhedkar/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<h2 align="center">💭 Dev Quote of the Day 💭</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <i>This snake is always hungry for code! 🍎</i>
 </p>
 
 ---
-
-<div align="center">
-
-### 🎮 Take a Break - Play Snake! 🎮
-
-<details>
-<summary><b>Click to Play Snake Game!</b></summary>
-<br>
-
-**Use Arrow Keys to Control**
-
-Play here: [🎮 Classic Snake Game](https://playsnake.org/)
-
-*Challenge: Can you beat a score of 50?* 🏆
-
-</details>
-
-</div>
-
 
 <div align="center">
 
