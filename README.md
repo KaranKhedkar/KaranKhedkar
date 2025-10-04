@@ -96,7 +96,3 @@
 <p align="center">
   <b><i>"Turning caffeine ☕ into code and creativity 💡"</i></b>
 </p>
-
-
-
-
