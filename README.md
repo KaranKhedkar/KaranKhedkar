@@ -62,13 +62,6 @@
 
 <h2 align="center">🚀 Featured Projects 🚀</h2>
 
-<div align="center">
-
-<a href="https://github.com/KaranKhedkar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranKhedkar&repo=campus-event-management&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
-
-</div>
 
 ### 🎓 Campus Event Management System
 > **React** • **Tailwind CSS** • **Supabase**
