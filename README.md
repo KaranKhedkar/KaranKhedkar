@@ -183,23 +183,6 @@ Play here: [🎮 Classic Snake Game](https://playsnake.org/)
 
 </div>
 
----
-
-<h2 align="center">⚡ Quick Stats ⚡</h2>
-
-<div align="center">
-
-```text
-🌟 Total Stars Earned         ⭐ Check my repos!
-🔥 Total Commits               💪 Pushing code daily
-📦 Total Repositories          📁 Building & Learning
-🎯 Current Focus               🤖 AI Integration
-☕ Coffee Consumed Today        ∞  (Lost count)
-```
-
-</div>
-
----
 
 <div align="center">
 
