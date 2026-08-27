@@ -4,37 +4,51 @@
 
 <div align="center">
 
-<img
-  src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1800&q=85"
-  width="100%"
-  alt="Cyberpunk city"
-/>
+<table width="100%">
+<tr>
+<td
+  align="center"
+  background="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1800&q=85"
+  style="background-size: cover; background-position: center;"
+>
 
-<br>
+<br><br><br>
 
 # Karan Khedkar
 
 ### AI/ML Engineer · GenAI Developer · Full-Stack Engineer
 
+<br>
+
 `AI SYSTEMS` · `MACHINE LEARNING` · `GENAI` · `RAG` · `FULL-STACK`
 
-<br>
+<br><br>
 
-> Building intelligent systems where **AI meets software engineering.**
+> **Building intelligent systems where AI meets software engineering.**
 
-<br>
+<br><br>
 
 <a href="https://github.com/Karan-Khedkar">
-<img src="https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-080B10?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/in/karan-khedkar/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+<img src="https://img.shields.io/badge/LINKEDIN-080B10?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
 </a>
+
 &nbsp;
+
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-0B0F14?style=for-the-badge&logo=gmail&logoColor=EA4335">
+<img src="https://img.shields.io/badge/EMAIL-080B10?style=for-the-badge&logo=gmail&logoColor=EA4335">
 </a>
+
+<br><br><br>
+
+</td>
+</tr>
+</table>
 
 </div>
 
