@@ -3,18 +3,21 @@
 
   <defs>
 
+    <!-- Background -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#080B12"/>
       <stop offset="55%" stop-color="#0B1020"/>
       <stop offset="100%" stop-color="#110A1F"/>
     </linearGradient>
 
+    <!-- Accent -->
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#5B5CFF"/>
       <stop offset="50%" stop-color="#8B5CF6"/>
       <stop offset="100%" stop-color="#22D3EE"/>
     </linearGradient>
 
+    <!-- Glow -->
     <radialGradient id="glow">
       <stop offset="0%" stop-color="#6C63FF" stop-opacity=".25"/>
       <stop offset="100%" stop-color="#6C63FF" stop-opacity="0"/>
@@ -26,23 +29,38 @@
 
   </defs>
 
-  <!-- Background -->
+
+  <!-- =========================
+       BACKGROUND
+  ========================== -->
 
   <rect width="1400" height="360" fill="url(#bg)"/>
 
-  <!-- Ambient glow -->
 
-  <circle cx="1120" cy="120" r="230" fill="url(#glow)" filter="url(#blur)"/>
-  <circle cx="300" cy="320" r="180" fill="url(#glow)" filter="url(#blur)"/>
+  <!-- Ambient glows -->
 
-  <!-- Grid -->
+  <circle cx="180" cy="170"
+          r="230"
+          fill="url(#glow)"
+          filter="url(#blur)"/>
 
-  <g opacity=".08" stroke="#8B9AFF">
+  <circle cx="1220" cy="170"
+          r="230"
+          fill="url(#glow)"
+          filter="url(#blur)"/>
 
-    <path d="M0 80H1400"/>
-    <path d="M0 160H1400"/>
+
+  <!-- =========================
+       SUBTLE GRID
+  ========================== -->
+
+  <g opacity=".06" stroke="#8B9AFF">
+
+    <path d="M0 60H1400"/>
+    <path d="M0 120H1400"/>
+    <path d="M0 180H1400"/>
     <path d="M0 240H1400"/>
-    <path d="M0 320H1400"/>
+    <path d="M0 300H1400"/>
 
     <path d="M100 0V360"/>
     <path d="M200 0V360"/>
@@ -60,106 +78,200 @@
 
   </g>
 
-  <!-- Decorative circuit lines -->
 
-  <g fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".55">
+  <!-- =========================
+       LEFT CIRCUIT
+  ========================== -->
 
-    <path d="M850 70H980L1010 100H1110"/>
-    <path d="M910 160H1040L1070 130H1210"/>
-    <path d="M1000 230H1080L1110 200H1280"/>
-    <path d="M1120 90V150L1150 180V260"/>
-    <path d="M1240 70V120L1270 150V230"/>
+  <g fill="none"
+     stroke="url(#accent)"
+     stroke-width="1.5"
+     opacity=".45">
+
+    <path d="M0 95H110L145 130H245"/>
+    <path d="M0 245H80L120 205H220"/>
+    <path d="M145 130V175L185 215H270"/>
 
   </g>
-
-  <!-- Circuit nodes -->
 
   <g fill="#8B5CF6">
 
-    <circle cx="980" cy="70" r="3"/>
-    <circle cx="1110" cy="100" r="3"/>
-    <circle cx="1040" cy="160" r="3"/>
-    <circle cx="1210" cy="130" r="3"/>
-    <circle cx="1080" cy="230" r="3"/>
-    <circle cx="1280" cy="200" r="3"/>
-    <circle cx="1120" cy="90" r="3"/>
-    <circle cx="1150" cy="180" r="3"/>
+    <circle cx="110" cy="95" r="3"/>
+    <circle cx="145" cy="130" r="3"/>
+    <circle cx="245" cy="130" r="3"/>
+    <circle cx="120" cy="205" r="3"/>
+    <circle cx="220" cy="205" r="3"/>
 
   </g>
 
-  <!-- Abstract AI neural structure -->
 
-  <g fill="none" stroke="#6366F1" stroke-width="1.5" opacity=".45">
+  <!-- =========================
+       RIGHT CIRCUIT
+  ========================== -->
 
-    <path d="M1160 90L1210 120L1260 95"/>
-    <path d="M1160 90L1190 170L1260 95"/>
-    <path d="M1190 170L1240 210L1300 170"/>
-    <path d="M1210 120L1240 210"/>
-    <path d="M1260 95L1300 170"/>
+  <g fill="none"
+     stroke="url(#accent)"
+     stroke-width="1.5"
+     opacity=".45">
+
+    <path d="M1400 95H1290L1255 130H1155"/>
+    <path d="M1400 245H1320L1280 205H1180"/>
+    <path d="M1255 130V175L1215 215H1130"/>
+
+  </g>
+
+  <g fill="#8B5CF6">
+
+    <circle cx="1290" cy="95" r="3"/>
+    <circle cx="1255" cy="130" r="3"/>
+    <circle cx="1155" cy="130" r="3"/>
+    <circle cx="1280" cy="205" r="3"/>
+    <circle cx="1180" cy="205" r="3"/>
+
+  </g>
+
+
+  <!-- =========================
+       ABSTRACT AI NODES
+  ========================== -->
+
+  <g fill="none"
+     stroke="#6366F1"
+     stroke-width="1.5"
+     opacity=".35">
+
+    <!-- Left neural cluster -->
+    <path d="M175 75L225 105L195 155L245 180"/>
+    <path d="M225 105L270 80L245 180"/>
+    <path d="M195 155L160 205L245 180"/>
+
+    <!-- Right neural cluster -->
+    <path d="M1225 75L1175 105L1205 155L1155 180"/>
+    <path d="M1175 105L1130 80L1155 180"/>
+    <path d="M1205 155L1240 205L1155 180"/>
 
   </g>
 
   <g fill="#A78BFA">
 
-    <circle cx="1160" cy="90" r="4"/>
-    <circle cx="1210" cy="120" r="4"/>
-    <circle cx="1260" cy="95" r="4"/>
-    <circle cx="1190" cy="170" r="4"/>
-    <circle cx="1240" cy="210" r="4"/>
-    <circle cx="1300" cy="170" r="4"/>
+    <circle cx="175" cy="75" r="3"/>
+    <circle cx="225" cy="105" r="4"/>
+    <circle cx="195" cy="155" r="3"/>
+    <circle cx="245" cy="180" r="4"/>
+    <circle cx="270" cy="80" r="3"/>
+
+    <circle cx="1225" cy="75" r="3"/>
+    <circle cx="1175" cy="105" r="4"/>
+    <circle cx="1205" cy="155" r="3"/>
+    <circle cx="1155" cy="180" r="4"/>
+    <circle cx="1130" cy="80" r="3"/>
 
   </g>
 
-  <!-- Terminal-style identity -->
 
-  <g font-family="monospace">
+  <!-- =========================
+       CENTER CONTENT
+  ========================== -->
 
-    <text x="90" y="105"
+  <g font-family="monospace"
+     text-anchor="middle">
+
+    <!-- Terminal lines -->
+
+    <text x="700"
+          y="72"
           fill="#8B5CF6"
-          font-size="18">
+          font-size="17">
+
       &gt; building intelligent systems
+
     </text>
 
-    <text x="90" y="135"
+    <text x="700"
+          y="98"
           fill="#67E8F9"
-          font-size="18">
+          font-size="17">
+
       &gt; turning ideas into real-world impact
+
     </text>
 
-    <text x="90" y="205"
+
+    <!-- Name -->
+
+    <text x="700"
+          y="172"
           fill="#F8FAFC"
           font-size="54"
-          font-weight="700">
+          font-weight="700"
+          letter-spacing="2">
+
       KARAN KHEDKAR
+
     </text>
 
-    <text x="94" y="242"
+
+    <!-- Role -->
+
+    <text x="700"
+          y="210"
           fill="#A78BFA"
-          font-size="20">
+          font-size="20"
+          letter-spacing="2">
+
       AI / ML  ·  GENAI  ·  FULL-STACK
+
     </text>
 
-    <rect x="94" y="270" width="380" height="2"
+
+    <!-- Accent line -->
+
+    <rect x="515"
+          y="232"
+          width="370"
+          height="2"
+          rx="1"
           fill="url(#accent)"/>
 
-    <text x="94" y="305"
-          fill="#94A3B8"
+
+    <!-- Description -->
+
+    <text x="700"
+          y="270"
+          fill="#CBD5E1"
           font-size="15">
-      AI-first systems · Agentic workflows · RAG · ML
+
+      AI-first systems · Agentic workflows · RAG · Machine Learning
+
+    </text>
+
+
+    <!-- Small status -->
+
+    <text x="700"
+          y="305"
+          fill="#64748B"
+          font-size="13">
+
+      VJTI · Mumbai, India
+
     </text>
 
   </g>
 
-  <!-- Small decorative stars -->
+
+  <!-- =========================
+       CENTER DECORATIVE NODES
+  ========================== -->
 
   <g fill="#C4B5FD">
 
-    <circle cx="720" cy="65" r="1.5"/>
-    <circle cx="780" cy="120" r="1"/>
-    <circle cx="870" cy="40" r="1.5"/>
-    <circle cx="950" cy="290" r="1"/>
-    <circle cx="1340" cy="80" r="1.5"/>
-    <circle cx="1370" cy="280" r="1"/>
+    <circle cx="470" cy="55" r="1.5"/>
+    <circle cx="505" cy="320" r="1"/>
+    <circle cx="930" cy="55" r="1.5"/>
+    <circle cx="895" cy="320" r="1"/>
+    <circle cx="350" cy="275" r="1"/>
+    <circle cx="1050" cy="275" r="1"/>
 
   </g>
 
