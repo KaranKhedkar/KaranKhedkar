@@ -551,90 +551,30 @@ A full-stack application for tracking expenses, managing budgets, categorizing s
 <br>
 <br>
 
-
 <!-- =========================================================
-     GITHUB TELEMETRY
+     GITHUB
 ========================================================= -->
 
 <div align="center">
 
-## `04 // GITHUB TELEMETRY`
+## `04 // GITHUB`
 
 <br>
 
+<a href="https://github.com/Karan-Khedkar">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=KaranKhedkar&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=22D3EE&text_color=C4B5FD&rank_icon=github"
-  height="170"
+  src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-080A12?style=for-the-badge&logo=github&logoColor=white"
 />
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKhedkar&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C4B5FD"
-  height="170"
-/>
+</a>
 
 <br><br>
 
-<img
-  src="https://streak-stats.demolab.com?user=KaranKhedkar&hide_border=true&background=00000000&ring=8B5CF6&fire=22D3EE&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=64748B"
-  width="500"
-/>
+`BUILDING · EXPERIMENTING · LEARNING`
 
 </div>
 
 <br>
 <br>
-
-
-<!-- =========================================================
-     ACTIVITY
-========================================================= -->
-
-<div align="center">
-
-## `05 // ACTIVITY STREAM`
-
-<br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Karan-Khedkar&bg_color=00000000&color=C4B5FD&line=8B5CF6&point=22D3EE&area=true&hide_border=true"
-  width="95%"
-/>
-
-</div>
-
-<br>
-<br>
-
-
-<!-- =========================================================
-     PHILOSOPHY
-========================================================= -->
-
-<div align="center">
-
-## `06 // ENGINEERING PHILOSOPHY`
-
-<br>
-
-> **Build systems, not just features.**
-
-<br>
-
-I enjoy understanding **why** a system works,
-how its components interact, and how it can be improved.
-
-<br>
-
-From algorithms and machine learning models  
-to RAG pipelines and full-stack applications —
-
-**I like turning ideas into working systems.**
-
-</div>
-
-<br>
-<br>
-
 
 <!-- =========================================================
      FOOTER
