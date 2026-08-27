@@ -192,13 +192,13 @@ Intelligent scheduling system powered by genetic algorithms (DEAP) that generate
 
 <br>
 
-<h1>Karan Khedkar</h1>
+<!-- <h1>Karan Khedkar</h1>
 
 <h3>AI/ML Engineer · GenAI Developer · Full-Stack Engineer</h3>
 
 <p>
   Building intelligent systems where <b>AI meets software engineering.</b>
-</p>
+</p> -->
 
 <br>
 
