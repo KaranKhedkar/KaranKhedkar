@@ -188,7 +188,7 @@ Intelligent scheduling system powered by genetic algorithms (DEAP) that generate
 
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Karan Khedkar — AI/ML Engineer">
+<img src="./banner.svg" width="100%" alt="Karan Khedkar — AI/ML Engineer">
 
 <br>
 
