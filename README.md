@@ -259,29 +259,29 @@ Tracks expenses, manages budgets, categorizes transactions, and provides visual 
 
 `LLMs` · `RAG` · `LangChain` · `LangGraph` · `Agentic AI`
 
-<br><br>
+<br>
 
 ### FRONTEND
 
 <img src="https://skillicons.dev/icons?i=react,tailwind" />
 
-<br><br>
+<br>
 
 ### BACKEND
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 
-<br><br>
+<br>
 
 ### DATABASES & STORAGE
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis" />
 
-<br><br>
+<br>
 
 `Supabase` · `ChromaDB`
 
-<br><br>
+<br>
 
 ### TOOLS & INFRASTRUCTURE
 
@@ -299,12 +299,6 @@ Tracks expenses, manages budgets, categorizes transactions, and provides visual 
 ## `04 // ENGINEERING MINDSET`
 
 <br>
-
-<img
-  src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1400&q=80"
-  width="80%"
-  alt="Cyberpunk landscape"
-/>
 
 <br><br>
 
@@ -359,15 +353,6 @@ to RAG pipelines, agentic systems, and full-stack applications —
 ---
 
 <div align="center">
-
-<img
-  src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1800&q=85"
-  width="100%"
-  alt="Cyberpunk technology"
-/>
-
-<br><br>
-
 # `LET'S BUILD SOMETHING`
 
 ### AI · SOFTWARE · INTELLIGENT SYSTEMS
