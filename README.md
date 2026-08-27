@@ -172,207 +172,289 @@ Intelligent scheduling system powered by genetic algorithms (DEAP) that generate
 
 
 
+
+
+
+
+
+
+
+
+
+
+<!-- =========================
+     HERO
+========================= -->
+
 <div align="center">
 
-<br/>
+<img src="./assets/banner.svg" width="100%" alt="Karan Khedkar — AI/ML Engineer">
 
-# Karan Khedkar
+<br>
 
-### AI/ML Engineer · GenAI Systems · Full-Stack
+<h1>Karan Khedkar</h1>
 
-<br/>
+<h3>AI/ML Engineer · GenAI Developer · Full-Stack Engineer</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3200&pause=1200&color=8B7FFF&center=true&vCenter=true&width=560&letterSpacing=1px&lines=Building+intelligent+systems+where+AI+meets+software;Agentic+pipelines+%C2%B7+RAG+%C2%B7+applied+ML;Turning+research+ideas+into+working+systems" alt="typing tagline" />
+<p>
+  Building intelligent systems where <b>AI meets software engineering.</b>
+</p>
 
-<br/><br/>
+<br>
 
-Mumbai, India&nbsp;&nbsp;·&nbsp;&nbsp;B.Tech, Electronics &amp; Telecommunication, VJTI
+<a href="https://linkedin.com/in/karan-khedkar">
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:karank200410@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Karan-Khedkar">
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+<br><br>
 
-<a href="https://linkedin.com/in/karan-khedkar"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=8B7FFF" alt="LinkedIn"/></a>
-<a href="https://github.com/Karan-Khedkar"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=8B7FFF" alt="GitHub"/></a>
-<a href="mailto:karank200410@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=8B7FFF" alt="Email"/></a>
-
-<br/>
+<img src="https://komarev.com/ghpvc/?username=Karan-Khedkar&style=flat-square&color=6C63FF" alt="Profile views">
 
 </div>
 
+---
+
+## ⚡ Currently
+
+<table>
+<tr>
+<td width="25%"><b>Focus</b></td>
+<td>Agentic AI · RAG · Machine Learning</td>
+</tr>
+
+<tr>
+<td><b>Building</b></td>
+<td>AI-first applications and intelligent developer tools</td>
+</tr>
+
+<tr>
+<td><b>Exploring</b></td>
+<td>Multi-agent systems · LLM workflows · Retrieval architectures</td>
+</tr>
+
+<tr>
+<td><b>Education</b></td>
+<td>B.Tech · Electronics & Telecommunication · VJTI</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Work
+
 <div align="center">
 
-⸻
+### 🛡️ CodeShield
+
+**Agentic AI Security Analysis Platform**
 
 </div>
 
-<br/>
+An agentic security system that investigates and validates vulnerabilities instead of simply reporting static-analysis findings.
 
-## Currently
+**What makes it interesting**
 
-Working at the intersection of applied AI and full-stack engineering — designing agentic pipelines, grounding LLMs with retrieval, and building the infrastructure that keeps them reliable in production.
+- Multi-agent workflow for vulnerability validation and remediation
+- Semgrep + Tree-sitter AST reachability analysis
+- RAG layer for security-rule context
+- AI-generated remediation patches
+- Redis caching for LLM workflows
 
-&nbsp;&nbsp;→ Agentic AI & multi-agent orchestration
-&nbsp;&nbsp;→ Retrieval-Augmented Generation
-&nbsp;&nbsp;→ Applied machine learning
-&nbsp;&nbsp;→ Full-stack system design
-
-<br/>
+`React` `FastAPI` `LangGraph` `Semgrep` `Tree-sitter` `ChromaDB` `Redis` `GPT-OSS 120B`
 
 <div align="center">
 
-⸻
+**[ View Repository → ](YOUR_CODESHIELD_REPO_URL)**
 
 </div>
 
-<br/>
-
-## Featured Projects
-
-<sub>Three systems I've enjoyed building the most.</sub>
-
-<br/>
-
-### 🛡️ &nbsp;CodeShield
-*Agentic AI Security Analysis Platform*
-
-An autonomous security engineer for your codebase — investigates and validates vulnerabilities instead of just flagging them. A LangGraph multi-agent workflow filters false positives, confirms exploitability through AST reachability analysis, and drafts remediation patches grounded in retrieved security context.
-
-&nbsp;&nbsp;→ Multi-agent workflow orchestration with GPT-OSS 120B
-&nbsp;&nbsp;→ Static analysis (Semgrep) fused with AST-based reachability
-&nbsp;&nbsp;→ RAG pipeline for grounded remediation, cached with Redis
-
-`React` `FastAPI` `LangGraph` `Semgrep` `Tree-sitter` `ChromaDB` `Redis`
-
-**[View Repository ↗](https://github.com/KaranKhedkar/CodeShield)**
-
-<br/>
-
-### 💰 &nbsp;FinSight AI
-*AI-Powered Financial Analytics Platform*
-
-Turns raw bank statements into conversational financial intelligence. Ingests statements across major Indian banks, detects anomalies, forecasts spend, and answers natural-language questions with agentic tool-calling — down to running what-if simulations on demand.
-
-&nbsp;&nbsp;→ Multi-bank statement parsing with automated format detection
-&nbsp;&nbsp;→ Isolation Forest for anomaly detection, Prophet for forecasting
-&nbsp;&nbsp;→ Agentic tool-calling for conversational, chart-driven analysis
-
-`React` `FastAPI` `Supabase` `scikit-learn` `Prophet` `LangChain` `Gemini`
-
-**[View Repository ↗](https://github.com/KaranKhedkar/Bank-Statement-Analyzer)**
-
-<br/>
-
-### 📅 &nbsp;NEP Timetable Generator
-*Constraint-Driven Timetable Optimization*
-
-A genetic-algorithm engine that solves NEP-compliant academic scheduling — a combinatorial problem most tools brute-force. Custom fitness functions minimize clashes and idle time, cutting scheduling time by over 95%.
-
-&nbsp;&nbsp;→ Population-based optimization — crossover, mutation, tournament selection
-&nbsp;&nbsp;→ Custom fitness function balancing clashes, load, and idle time
-&nbsp;&nbsp;→ Full timetables generated in minutes, not hours
-
-`React` `FastAPI` `Supabase` `DEAP`
-
-**[View Repository ↗](https://github.com/KaranKhedkar/NEP_TIMETABLE)**
-
-<br/>
+---
 
 <div align="center">
 
-⸻
+### 💰 FinSight AI
+
+**AI-Powered Financial Analytics Platform**
 
 </div>
 
-<br/>
+An AI-powered financial analytics platform for transaction analysis, anomaly detection, forecasting, and conversational financial decision-making.
 
-## Also Built
+**What makes it interesting**
 
-#### 🎓 &nbsp;Campus Event Management System
-Full-stack platform for organizing campus events — role-based access for students, organizers, and admins, live registration, and an analytics dashboard.
-`React` `Tailwind CSS` `Supabase` — **[View ↗](https://github.com/Karan-Khedkar)**
+- Multi-bank statement ingestion and transaction extraction
+- Isolation Forest anomaly detection
+- Prophet-based expense forecasting
+- Agentic tool-calling for financial queries
+- Natural-language what-if simulations and conversational charts
 
-#### 💸 &nbsp;Personal Finance Tracker
-Expense and budget management app with categorized spending, budget limits, and interactive analytics.
-`React` `Tailwind CSS` `MongoDB` — **[View ↗](https://github.com/Karan-Khedkar)**
-
-<br/>
+`React` `FastAPI` `Supabase` `PostgreSQL` `scikit-learn` `Prophet` `LangChain` `Gemini`
 
 <div align="center">
 
-⸻
+**[ View Repository → ](YOUR_FINSIGHT_REPO_URL)**
 
 </div>
 
-<br/>
-
-## Tech Stack
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/C++-0A0A0A?style=flat-square&logo=cplusplus&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/HTML-0A0A0A?style=flat-square&logo=html5&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/CSS-0A0A0A?style=flat-square&logo=css3&logoColor=8B7FFF" />
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/Express-0A0A0A?style=flat-square&logo=express&logoColor=06B6D4" />
-
-**AI / ML**
-<br/>
-<img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=flat-square&logo=scikitlearn&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/Prophet-0A0A0A?style=flat-square&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/Isolation_Forest-0A0A0A?style=flat-square&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/Genetic_Algorithms-0A0A0A?style=flat-square&logoColor=8B7FFF" />
-
-**GenAI**
-<br/>
-<img src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/RAG-0A0A0A?style=flat-square&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/LLMs-0A0A0A?style=flat-square&logoColor=06B6D4" />
-
-**Databases / Storage**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/SQLite-0A0A0A?style=flat-square&logo=sqlite&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/Supabase-0A0A0A?style=flat-square&logo=supabase&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/ChromaDB-0A0A0A?style=flat-square&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/Redis-0A0A0A?style=flat-square&logo=redis&logoColor=8B7FFF" />
-
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/Postman-0A0A0A?style=flat-square&logo=postman&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/Vercel-0A0A0A?style=flat-square&logo=vercel&logoColor=06B6D4" />
-
-<br/>
+---
 
 <div align="center">
 
-⸻
+### 📅 NEP Timetable Generator
+
+**Constraint-Driven Scheduling with Genetic Algorithms**
 
 </div>
 
-<br/>
+A timetable generation engine that uses population-based optimization to create conflict-free academic schedules.
+
+**What makes it interesting**
+
+- Constraint-driven fitness function
+- Population-based optimization
+- Crossover and mutation
+- Tournament selection
+- Optimization of clashes, resource overload, and student idle time
+
+`React` `FastAPI` `Supabase` `PostgreSQL` `DEAP`
 
 <div align="center">
 
-## GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=Karan-Khedkar&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=8B7FFF&icon_color=06B6D4&text_color=9CA3AF&hide_rank=true" height="150" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Khedkar&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=8B7FFF&text_color=9CA3AF&langs_count=6" height="150" alt="top languages"/>
+**[ View Repository → ](YOUR_TIMETABLE_REPO_URL)**
 
 </div>
 
-<br/>
+---
+
+# 🧩 Also Built
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Campus Event Management
+
+A centralized platform for organizing campus events with role-based access for students, organizers, and administrators.
+
+**Highlights**
+
+- Event management & registration
+- Authentication & authorization
+- Real-time updates
+- Admin analytics dashboard
+
+`React` `Tailwind CSS` `Supabase`
+
+<br>
+
+**[ View Repository → ](YOUR_CAMPUS_EVENT_REPO_URL)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💸 Personal Finance Tracker
+
+A full-stack application for expense tracking, budgeting, categorization, and interactive spending analytics.
+
+**Highlights**
+
+- Expense categorization
+- Budget management
+- Spending visualization
+- Interactive analytics
+
+`React` `Tailwind CSS` `MongoDB`
+
+<br>
+
+**[ View Repository → ](YOUR_FINANCE_TRACKER_REPO_URL)**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 Tech Stack
 
 <div align="center">
 
-⸻
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql" />
+
+<br><br>
+
+### Frontend · Backend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,fastapi" />
+
+<br><br>
+
+### AI · ML · GenAI
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br>
+
+`Machine Learning` · `RAG` · `LLMs` · `LangChain` · `LangGraph`  
+`scikit-learn` · `Prophet` · `Isolation Forest` · `Genetic Algorithms`
+
+<br><br>
+
+### Databases · Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,docker,git,github" />
+
+<br>
+
+`Supabase` · `ChromaDB` · `Postman` · `Vercel`
 
 </div>
 
-<br/>
+---
+
+# 📊 GitHub
 
 <div align="center">
 
-## Connect
+<img src="https://github-readme-stats.vercel.app/api?username=Karan-Khedkar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165">
 
-[LinkedIn](https://linkedin.com/in/karan-khedkar) &nbsp;·&nbsp; [GitHub](https://github.com/Karan-Khedkar) &nbsp;·&nbsp; [karank200410@gmail.com](mailto:karank200410@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Khedkar&layout=compact&hide_border=true&theme=transparent" height="165">
 
-<br/>
+<br><br>
 
-<sub>Usually debugging an agent pipeline — or losing to a friend on PS5.</sub>
+<img src="https://streak-stats.demolab.com?user=Karan-Khedkar&hide_border=true&theme=transparent" width="70%">
 
-<br/><br/>
+</div>
+
+---
+
+<div align="center">
+
+### Building. Learning. Iterating.
+
+<br>
+
+<a href="https://linkedin.com/in/karan-khedkar">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:karank200410@gmail.com">Email</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Karan-Khedkar">GitHub</a>
+
+<br><br>
+
+<sub>VJTI · Mumbai, India</sub>
 
 </div>
