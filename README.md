@@ -182,279 +182,478 @@ Intelligent scheduling system powered by genetic algorithms (DEAP) that generate
 
 
 
-<!-- =========================
+
+<!-- =========================================================
      HERO
-========================= -->
+========================================================= -->
 
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Karan Khedkar — AI/ML Engineer">
-
-<br>
-
-<!-- <h1>Karan Khedkar</h1>
-
-<h3>AI/ML Engineer · GenAI Developer · Full-Stack Engineer</h3>
-
-<p>
-  Building intelligent systems where <b>AI meets software engineering.</b>
-</p> -->
-
-<br>
-
-<a href="https://linkedin.com/in/karan-khedkar">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:karank200410@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Karan-Khedkar">
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Karan-Khedkar&style=flat-square&color=6C63FF" alt="Profile views">
+<img src="./assets/hero.svg" width="100%" alt="Karan Khedkar - AI ML Full Stack Developer">
 
 </div>
 
----
+<br>
 
-## ⚡ Currently
+
+<!-- =========================================================
+     INTRO
+========================================================= -->
+
+<div align="center">
+
+### `SYSTEM STATUS // ONLINE`
+
+**AI / ML · GENAI · AGENTIC SYSTEMS · FULL-STACK**
+
+<br>
+
+Building intelligent systems where **AI meets software engineering**.
+
+Exploring machine learning, generative AI, agentic architectures,
+RAG systems, and scalable full-stack applications.
+
+</div>
+
+<br>
+<br>
+
+
+<!-- =========================================================
+     CONNECT
+========================================================= -->
+
+<div align="center">
+
+<a href="https://github.com/Karan-Khedkar">
+<img src="https://img.shields.io/badge/GITHUB-080A12?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/karan-khedkar">
+<img src="https://img.shields.io/badge/LINKEDIN-080A12?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-080A12?style=for-the-badge&logo=gmail&logoColor=EA4335">
+</a>
+
+</div>
+
+<br>
+<br>
+
+
+<!-- =========================================================
+     CURRENT MISSION
+========================================================= -->
+
+<div align="center">
+
+## `01 // CURRENT MISSION`
+
+</div>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="25%"><b>Focus</b></td>
-<td>Agentic AI · RAG · Machine Learning</td>
-</tr>
+<td width="33%" align="center">
 
-<tr>
-<td><b>Building</b></td>
-<td>AI-first applications and intelligent developer tools</td>
-</tr>
+### 🤖 AI SYSTEMS
 
-<tr>
-<td><b>Exploring</b></td>
-<td>Multi-agent systems · LLM workflows · Retrieval architectures</td>
-</tr>
+Agentic AI  
+RAG Pipelines  
+LLM Applications  
+Multi-Agent Workflows
 
-<tr>
-<td><b>Education</b></td>
-<td>B.Tech · Electronics & Telecommunication · VJTI</td>
+</td>
+
+<td width="33%" align="center">
+
+### 🧠 MACHINE LEARNING
+
+Predictive Models  
+Anomaly Detection  
+Optimization  
+Data-driven Systems
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ ENGINEERING
+
+Full-Stack Systems  
+REST APIs  
+Databases  
+Deployment & Infrastructure
+
+</td>
 </tr>
 </table>
 
+</div>
+
+<br>
+<br>
+
+
+<!-- =========================================================
+     FEATURED PROJECTS
+========================================================= -->
+
+<div align="center">
+
+## `02 // FEATURED SYSTEMS`
+
+</div>
+
+<br>
+
+
+<!-- =========================================================
+     PROJECT 001
+========================================================= -->
+
+<div align="center">
+
+<img
+  src="./assets/projects/codeshield.svg"
+  width="100%"
+  alt="CodeShield"
+/>
+
+</div>
+
+### 🛡️ CodeShield — Agentic AI Security Analysis
+
+An AI-powered security analysis system designed to investigate vulnerabilities, reason about their real-world impact, and assist with remediation.
+
+**Core technologies**
+
+`Python` `FastAPI` `React` `LangGraph` `RAG` `Semgrep` `Tree-sitter` `ChromaDB` `Redis`
+
+**Key engineering concepts**
+
+- Multi-agent vulnerability investigation
+- Static analysis integration
+- AST-based code analysis
+- RAG-powered security reasoning
+- Automated remediation assistance
+
+<div align="center">
+
+**[ VIEW PROJECT → ](YOUR_CODESHIELD_REPO_URL)**
+
+</div>
+
+<br>
+
 ---
 
-# 🚀 Featured Work
+<br>
+
+
+<!-- =========================================================
+     PROJECT 002
+========================================================= -->
 
 <div align="center">
 
-### 🛡️ CodeShield
-
-**Agentic AI Security Analysis Platform**
+<img
+  src="./assets/projects/finsight.svg"
+  width="100%"
+  alt="FinSight AI"
+/>
 
 </div>
 
-An agentic security system that investigates and validates vulnerabilities instead of simply reporting static-analysis findings.
+### 💰 FinSight AI — Financial Intelligence Engine
 
-**What makes it interesting**
+An AI-powered financial analytics platform that combines transaction analysis, machine learning, forecasting, and conversational AI.
 
-- Multi-agent workflow for vulnerability validation and remediation
-- Semgrep + Tree-sitter AST reachability analysis
-- RAG layer for security-rule context
-- AI-generated remediation patches
-- Redis caching for LLM workflows
+**Core technologies**
 
-`React` `FastAPI` `LangGraph` `Semgrep` `Tree-sitter` `ChromaDB` `Redis` `GPT-OSS 120B`
+`React` `FastAPI` `PostgreSQL` `Python` `scikit-learn` `Prophet` `LangChain` `Gemini`
+
+**Key engineering concepts**
+
+- Financial data ingestion
+- Transaction categorization
+- Anomaly detection
+- Expense forecasting
+- AI-powered financial analysis
+- Conversational what-if analysis
 
 <div align="center">
 
-**[ View Repository → ](YOUR_CODESHIELD_REPO_URL)**
+**[ VIEW PROJECT → ](YOUR_FINSIGHT_REPO_URL)**
 
 </div>
+
+<br>
 
 ---
 
-<div align="center">
+<br>
 
-### 💰 FinSight AI
 
-**AI-Powered Financial Analytics Platform**
-
-</div>
-
-An AI-powered financial analytics platform for transaction analysis, anomaly detection, forecasting, and conversational financial decision-making.
-
-**What makes it interesting**
-
-- Multi-bank statement ingestion and transaction extraction
-- Isolation Forest anomaly detection
-- Prophet-based expense forecasting
-- Agentic tool-calling for financial queries
-- Natural-language what-if simulations and conversational charts
-
-`React` `FastAPI` `Supabase` `PostgreSQL` `scikit-learn` `Prophet` `LangChain` `Gemini`
+<!-- =========================================================
+     PROJECT 003
+========================================================= -->
 
 <div align="center">
 
-**[ View Repository → ](YOUR_FINSIGHT_REPO_URL)**
+<img
+  src="./assets/projects/timetable.svg"
+  width="100%"
+  alt="NEP Timetable Generator"
+/>
 
 </div>
 
----
+### 📅 NEP Timetable Generator — Genetic Optimization
 
-<div align="center">
+A constraint-driven academic timetable generation system using a Genetic Algorithm to search for optimized schedules while minimizing conflicts.
 
-### 📅 NEP Timetable Generator
+**Core technologies**
 
-**Constraint-Driven Scheduling with Genetic Algorithms**
+`React` `FastAPI` `PostgreSQL` `Supabase` `DEAP` `Python`
 
-</div>
+**Key engineering concepts**
 
-A timetable generation engine that uses population-based optimization to create conflict-free academic schedules.
-
-**What makes it interesting**
-
-- Constraint-driven fitness function
+- Constraint-based fitness function
 - Population-based optimization
-- Crossover and mutation
-- Tournament selection
-- Optimization of clashes, resource overload, and student idle time
-
-`React` `FastAPI` `Supabase` `PostgreSQL` `DEAP`
+- Selection
+- Crossover
+- Mutation
+- Conflict minimization
 
 <div align="center">
 
-**[ View Repository → ](YOUR_TIMETABLE_REPO_URL)**
+**[ VIEW PROJECT → ](YOUR_TIMETABLE_REPO_URL)**
 
 </div>
 
+<br>
+
 ---
 
-# 🧩 Also Built
+<br>
 
-<table>
-<tr>
 
-<td width="50%" valign="top">
+<!-- =========================================================
+     PROJECT 004
+========================================================= -->
 
-### 🎓 Campus Event Management
+<div align="center">
 
-A centralized platform for organizing campus events with role-based access for students, organizers, and administrators.
+<img
+  src="./assets/projects/campus-events.svg"
+  width="100%"
+  alt="Campus Event Management"
+/>
 
-**Highlights**
+</div>
 
-- Event management & registration
-- Authentication & authorization
-- Real-time updates
-- Admin analytics dashboard
+### 🎓 Campus Event Management — Connected Campus Platform
+
+A centralized platform designed to connect students, event organizers, and administrators through a unified campus event ecosystem.
+
+**Core technologies**
 
 `React` `Tailwind CSS` `Supabase`
 
+**Key engineering concepts**
+
+- Role-based access control
+- Student registration
+- Event creation and management
+- Organizer workflows
+- Administrative management
+- Centralized event platform
+
+<div align="center">
+
+**[ VIEW PROJECT → ](YOUR_CAMPUS_EVENTS_REPO_URL)**
+
+</div>
+
 <br>
 
-**[ View Repository → ](YOUR_CAMPUS_EVENT_REPO_URL)**
+---
 
-</td>
+<br>
 
-<td width="50%" valign="top">
 
-### 💸 Personal Finance Tracker
+<!-- =========================================================
+     PROJECT 005
+========================================================= -->
 
-A full-stack application for expense tracking, budgeting, categorization, and interactive spending analytics.
+<div align="center">
 
-**Highlights**
+<img
+  src="./assets/projects/finance-tracker.svg"
+  width="100%"
+  alt="Personal Finance Tracker"
+/>
 
-- Expense categorization
-- Budget management
-- Spending visualization
-- Interactive analytics
+</div>
+
+### 💸 Personal Finance Tracker — Financial Control System
+
+A full-stack application for tracking expenses, managing budgets, categorizing spending, and visualizing personal financial activity.
+
+**Core technologies**
 
 `React` `Tailwind CSS` `MongoDB`
 
-<br>
+**Key engineering concepts**
 
-**[ View Repository → ](YOUR_FINANCE_TRACKER_REPO_URL)**
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 Tech Stack
+- Expense management
+- Budget tracking
+- Transaction categorization
+- Financial analytics
+- Data visualization
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql" />
-
-<br><br>
-
-### Frontend · Backend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,fastapi" />
-
-<br><br>
-
-### AI · ML · GenAI
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br>
-
-`Machine Learning` · `RAG` · `LLMs` · `LangChain` · `LangGraph`  
-`scikit-learn` · `Prophet` · `Isolation Forest` · `Genetic Algorithms`
-
-<br><br>
-
-### Databases · Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,docker,git,github" />
-
-<br>
-
-`Supabase` · `ChromaDB` · `Postman` · `Vercel`
+**[ VIEW PROJECT → ](YOUR_FINANCE_TRACKER_REPO_URL)**
 
 </div>
 
----
+<br>
+<br>
 
-# 📊 GitHub
+
+<!-- =========================================================
+     TECHNOLOGY STACK
+========================================================= -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Karan-Khedkar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Khedkar&layout=compact&hide_border=true&theme=transparent" height="165">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Karan-Khedkar&hide_border=true&theme=transparent" width="70%">
+## `03 // TECHNOLOGY MATRIX`
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### Building. Learning. Iterating.
+<img
+  src="./assets/tech-stack.svg"
+  width="100%"
+  alt="Technology Stack"
+/>
+
+</div>
+
+<br>
+<br>
+
+
+<!-- =========================================================
+     GITHUB TELEMETRY
+========================================================= -->
+
+<div align="center">
+
+## `04 // GITHUB TELEMETRY`
 
 <br>
 
-<a href="https://linkedin.com/in/karan-khedkar">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:karank200410@gmail.com">Email</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Karan-Khedkar">GitHub</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Karan-Khedkar&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=22D3EE&text_color=C4B5FD&rank_icon=github"
+  height="170"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Khedkar&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C4B5FD"
+  height="170"
+/>
 
 <br><br>
 
-<sub>VJTI · Mumbai, India</sub>
+<img
+  src="https://streak-stats.demolab.com?user=Karan-Khedkar&hide_border=true&background=00000000&ring=8B5CF6&fire=22D3EE&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=64748B"
+  width="500"
+/>
+
+</div>
+
+<br>
+<br>
+
+
+<!-- =========================================================
+     ACTIVITY
+========================================================= -->
+
+<div align="center">
+
+## `05 // ACTIVITY STREAM`
+
+<br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Karan-Khedkar&bg_color=00000000&color=C4B5FD&line=8B5CF6&point=22D3EE&area=true&hide_border=true"
+  width="95%"
+/>
+
+</div>
+
+<br>
+<br>
+
+
+<!-- =========================================================
+     PHILOSOPHY
+========================================================= -->
+
+<div align="center">
+
+## `06 // ENGINEERING PHILOSOPHY`
+
+<br>
+
+> **Build systems, not just features.**
+
+<br>
+
+I enjoy understanding **why** a system works,
+how its components interact, and how it can be improved.
+
+<br>
+
+From algorithms and machine learning models  
+to RAG pipelines and full-stack applications —
+
+**I like turning ideas into working systems.**
+
+</div>
+
+<br>
+<br>
+
+
+<!-- =========================================================
+     FOOTER
+========================================================= -->
+
+<div align="center">
+
+<img
+  src="./assets/footer.svg"
+  width="100%"
+  alt="Connect with Karan Khedkar"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+`END OF TRANSMISSION`
 
 </div>
