@@ -563,19 +563,19 @@ A full-stack application for tracking expenses, managing budgets, categorizing s
 <br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Karan-Khedkar&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=22D3EE&text_color=C4B5FD&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=KaranKhedkar&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=22D3EE&text_color=C4B5FD&rank_icon=github"
   height="170"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Khedkar&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C4B5FD"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKhedkar&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C4B5FD"
   height="170"
 />
 
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com?user=Karan-Khedkar&hide_border=true&background=00000000&ring=8B5CF6&fire=22D3EE&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=64748B"
+  src="https://streak-stats.demolab.com?user=KaranKhedkar&hide_border=true&background=00000000&ring=8B5CF6&fire=22D3EE&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=64748B"
   width="500"
 />
 
