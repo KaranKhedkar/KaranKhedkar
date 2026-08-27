@@ -172,208 +172,207 @@ Intelligent scheduling system powered by genetic algorithms (DEAP) that generate
 
 
 
-
-
-
-
-
 <div align="center">
+
+<br/>
 
 # Karan Khedkar
 
-### AI/ML Engineer · GenAI Developer · Full-Stack Engineer
+### AI/ML Engineer · GenAI Systems · Full-Stack
 
-I design systems that reason — agentic pipelines, RAG architectures, and the full-stack plumbing that gets them into production.
-Currently studying Electronics & Telecommunication Engineering at **VJTI, Mumbai**.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/karan-khedkar)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/KaranKhedkar)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:karank200410@gmail.com)
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3200&pause=1200&color=8B7FFF&center=true&vCenter=true&width=560&letterSpacing=1px&lines=Building+intelligent+systems+where+AI+meets+software;Agentic+pipelines+%C2%B7+RAG+%C2%B7+applied+ML;Turning+research+ideas+into+working+systems" alt="typing tagline" />
+
+<br/><br/>
+
+Mumbai, India&nbsp;&nbsp;·&nbsp;&nbsp;B.Tech, Electronics &amp; Telecommunication, VJTI
+
+<br/>
+
+<a href="https://linkedin.com/in/karan-khedkar"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=8B7FFF" alt="LinkedIn"/></a>
+<a href="https://github.com/Karan-Khedkar"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=8B7FFF" alt="GitHub"/></a>
+<a href="mailto:karank200410@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=8B7FFF" alt="Email"/></a>
+
+<br/>
 
 </div>
 
-<br>
+<div align="center">
+
+⸻
+
+</div>
+
+<br/>
 
 ## Currently
 
-| | |
-|---|---|
-| **Focused on** | Agentic AI systems — multi-agent orchestration, tool-calling, and RAG grounding |
-| **Exploring** | Retrieval architectures and evaluation for LLM-driven workflows |
-| **Based in** | Mumbai, India |
-| **Off-screen** | Usually mid-match on PC or PS5 |
+Working at the intersection of applied AI and full-stack engineering — designing agentic pipelines, grounding LLMs with retrieval, and building the infrastructure that keeps them reliable in production.
 
-<br>
+&nbsp;&nbsp;→ Agentic AI & multi-agent orchestration
+&nbsp;&nbsp;→ Retrieval-Augmented Generation
+&nbsp;&nbsp;→ Applied machine learning
+&nbsp;&nbsp;→ Full-stack system design
 
-## Featured Work
-
-Three projects that best represent how I think — agentic systems, applied ML, and optimization.
-
-<br>
-
-<table>
-<tr>
-<td width="100%">
-
-### [`CodeShield`](https://github.com/KaranKhedkar/CodeShield)
-**Agentic AI security analysis platform**
-
-A multi-agent pipeline that investigates and validates vulnerabilities on its own — rather than just flagging them and moving on.
-
-- Static analysis (Semgrep) filtered through Tree-sitter AST reachability, so agents only spend reasoning on code paths that are actually exploitable
-- A LangGraph agent graph on **GPT-OSS 120B** validates findings, kills false positives, and drafts remediation patches
-- RAG layer over ChromaDB + Sentence-Transformers grounds every agent decision in real security-rule context, with Redis caching to keep the loop fast
-
-`React` `FastAPI` `LangGraph` `Semgrep` `Tree-sitter` `ChromaDB` `Redis` `GPT-OSS 120B`
-
-```mermaid
-flowchart LR
-    A[Semgrep scan] --> B[AST reachability filter]
-    B --> C[Agent: Validate]
-    C --> D[(RAG · ChromaDB)]
-    D --> C
-    C --> E[Agent: Patch]
-    E --> F[Review & apply]
-```
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%">
-
-### [`FinSight AI`](https://github.com/KaranKhedkar/Bank-Statement-Analyzer)
-**AI-powered financial analytics platform**
-
-Turns raw, multi-format bank statements into forecasts and conversational insight.
-
-- Ingestion pipeline auto-detects and parses statement formats across SBI, HDFC, ICICI, and other Indian banks
-- Isolation Forest flags anomalous transactions; Prophet forecasts spending trends
-- An agentic tool-calling layer maps natural-language questions to financial functions — powering what-if simulations and conversational charts, not just static dashboards
-
-`React.js` `FastAPI` `Supabase` `PostgreSQL` `scikit-learn` `Prophet` `LangChain` `Gemini AI`
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%">
-
-### [`NEP Timetable Generator`](https://github.com/KaranKhedkar/NEP_TIMETABLE)
-**Constraint-driven timetable optimization**
-
-Genetic-algorithm engine that solves NEP-compliant scheduling as an optimization problem rather than a manual chore.
-
-- Fitness function jointly minimizes clashes, resource overload, and student idle time
-- Full population-based pipeline — crossover, mutation, tournament selection — built with DEAP
-- Cuts scheduling time by **95%+**, producing complete, conflict-free timetables in minutes
-
-`React.js` `FastAPI` `Supabase` `PostgreSQL` `DEAP`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Also Built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Campus Event Management System](https://github.com/KaranKhedkar/Event_Management)**
-Full-stack platform for organizing campus events end-to-end — role-based access for students, organizers, and admins, real-time updates, and an analytics dashboard.
-
-`React` `Tailwind CSS` `Supabase`
-
-</td>
-<td width="50%" valign="top">
-
-**[Personal Finance Tracker](https://github.com/KaranKhedkar/Personal-Finance-Tracker)**
-Expense and budget tracker with categorization and interactive spending analytics, built on a MongoDB-backed full-stack foundation.
-
-`React` `Tailwind CSS` `MongoDB`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-<br>
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![HTML](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-
-**AI / ML**
-<br>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![Prophet](https://img.shields.io/badge/Prophet-0d1117?style=flat-square&logo=meta&logoColor=0668E1)
-![DEAP](https://img.shields.io/badge/DEAP-0d1117?style=flat-square)
-![Genetic Algorithms](https://img.shields.io/badge/Genetic%20Algorithms-0d1117?style=flat-square)
-
-**GenAI**
-<br>
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=flat-square)
-
-</td>
-<td valign="top" width="50%">
-
-**Frontend / Backend**
-<br>
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
-
-**Databases / Storage**
-<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3FCF8E)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
-
-**Tools**
-<br>
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br>
+<br/>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaranKhedkar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)
+⸻
 
-<br>
+</div>
 
-**[LinkedIn](https://linkedin.com/in/karan-khedkar) · [Email](mailto:karank200410@gmail.com)**
+<br/>
+
+## Featured Projects
+
+<sub>Three systems I've enjoyed building the most.</sub>
+
+<br/>
+
+### 🛡️ &nbsp;CodeShield
+*Agentic AI Security Analysis Platform*
+
+An autonomous security engineer for your codebase — investigates and validates vulnerabilities instead of just flagging them. A LangGraph multi-agent workflow filters false positives, confirms exploitability through AST reachability analysis, and drafts remediation patches grounded in retrieved security context.
+
+&nbsp;&nbsp;→ Multi-agent workflow orchestration with GPT-OSS 120B
+&nbsp;&nbsp;→ Static analysis (Semgrep) fused with AST-based reachability
+&nbsp;&nbsp;→ RAG pipeline for grounded remediation, cached with Redis
+
+`React` `FastAPI` `LangGraph` `Semgrep` `Tree-sitter` `ChromaDB` `Redis`
+
+**[View Repository ↗](https://github.com/KaranKhedkar/CodeShield)**
+
+<br/>
+
+### 💰 &nbsp;FinSight AI
+*AI-Powered Financial Analytics Platform*
+
+Turns raw bank statements into conversational financial intelligence. Ingests statements across major Indian banks, detects anomalies, forecasts spend, and answers natural-language questions with agentic tool-calling — down to running what-if simulations on demand.
+
+&nbsp;&nbsp;→ Multi-bank statement parsing with automated format detection
+&nbsp;&nbsp;→ Isolation Forest for anomaly detection, Prophet for forecasting
+&nbsp;&nbsp;→ Agentic tool-calling for conversational, chart-driven analysis
+
+`React` `FastAPI` `Supabase` `scikit-learn` `Prophet` `LangChain` `Gemini`
+
+**[View Repository ↗](https://github.com/KaranKhedkar/Bank-Statement-Analyzer)**
+
+<br/>
+
+### 📅 &nbsp;NEP Timetable Generator
+*Constraint-Driven Timetable Optimization*
+
+A genetic-algorithm engine that solves NEP-compliant academic scheduling — a combinatorial problem most tools brute-force. Custom fitness functions minimize clashes and idle time, cutting scheduling time by over 95%.
+
+&nbsp;&nbsp;→ Population-based optimization — crossover, mutation, tournament selection
+&nbsp;&nbsp;→ Custom fitness function balancing clashes, load, and idle time
+&nbsp;&nbsp;→ Full timetables generated in minutes, not hours
+
+`React` `FastAPI` `Supabase` `DEAP`
+
+**[View Repository ↗](https://github.com/KaranKhedkar/NEP_TIMETABLE)**
+
+<br/>
+
+<div align="center">
+
+⸻
+
+</div>
+
+<br/>
+
+## Also Built
+
+#### 🎓 &nbsp;Campus Event Management System
+Full-stack platform for organizing campus events — role-based access for students, organizers, and admins, live registration, and an analytics dashboard.
+`React` `Tailwind CSS` `Supabase` — **[View ↗](https://github.com/Karan-Khedkar)**
+
+#### 💸 &nbsp;Personal Finance Tracker
+Expense and budget management app with categorized spending, budget limits, and interactive analytics.
+`React` `Tailwind CSS` `MongoDB` — **[View ↗](https://github.com/Karan-Khedkar)**
+
+<br/>
+
+<div align="center">
+
+⸻
+
+</div>
+
+<br/>
+
+## Tech Stack
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/C++-0A0A0A?style=flat-square&logo=cplusplus&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/HTML-0A0A0A?style=flat-square&logo=html5&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/CSS-0A0A0A?style=flat-square&logo=css3&logoColor=8B7FFF" />
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/Express-0A0A0A?style=flat-square&logo=express&logoColor=06B6D4" />
+
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=flat-square&logo=scikitlearn&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/Prophet-0A0A0A?style=flat-square&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/Isolation_Forest-0A0A0A?style=flat-square&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/Genetic_Algorithms-0A0A0A?style=flat-square&logoColor=8B7FFF" />
+
+**GenAI**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/RAG-0A0A0A?style=flat-square&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/LLMs-0A0A0A?style=flat-square&logoColor=06B6D4" />
+
+**Databases / Storage**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/SQLite-0A0A0A?style=flat-square&logo=sqlite&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/Supabase-0A0A0A?style=flat-square&logo=supabase&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/ChromaDB-0A0A0A?style=flat-square&logoColor=8B7FFF" /> <img src="https://img.shields.io/badge/Redis-0A0A0A?style=flat-square&logo=redis&logoColor=8B7FFF" />
+
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/Postman-0A0A0A?style=flat-square&logo=postman&logoColor=06B6D4" /> <img src="https://img.shields.io/badge/Vercel-0A0A0A?style=flat-square&logo=vercel&logoColor=06B6D4" />
+
+<br/>
+
+<div align="center">
+
+⸻
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Karan-Khedkar&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=8B7FFF&icon_color=06B6D4&text_color=9CA3AF&hide_rank=true" height="150" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Khedkar&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=8B7FFF&text_color=9CA3AF&langs_count=6" height="150" alt="top languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+⸻
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/karan-khedkar) &nbsp;·&nbsp; [GitHub](https://github.com/Karan-Khedkar) &nbsp;·&nbsp; [karank200410@gmail.com](mailto:karank200410@gmail.com)
+
+<br/>
+
+<sub>Usually debugging an agent pipeline — or losing to a friend on PS5.</sub>
+
+<br/><br/>
 
 </div>
